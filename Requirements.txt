@@ -1,4 +1,0 @@
-streamlit
-google-genai
-yt-dlp
-moviepy
